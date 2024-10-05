@@ -5,6 +5,9 @@ Objective:
 To create a movie recommendation system that suggests movies based on a user's input.
 
 
+![image](https://github.com/user-attachments/assets/fba095a8-ec1e-4d83-b4ab-688253519d10)
+
+
 Steps Involved
 
     Data Collection:
@@ -44,4 +47,3 @@ Technologies Used:
     FuzzyWuzzy: String matching for user input
     
     
-![image](https://github.com/user-attachments/assets/fba095a8-ec1e-4d83-b4ab-688253519d10)
