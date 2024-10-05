@@ -19,7 +19,9 @@ Steps Involved
     Data Processing:
       Combine selected features into a single string for each movie.
       Use TfidfVectorizer to convert text data into numerical feature vectors.
-      Calculating Similarity: Compute cosine similarity between the feature vectors.
+      
+    Calculating Similarity:
+        Compute cosine similarity between the feature vectors.
     
     User Interaction:
       Prompt the user for their favorite movie title.
